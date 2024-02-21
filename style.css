@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-image: url(./todoBg.jpg);
 }
 
 .container {
@@ -10,7 +11,6 @@
     width: auto;
     position: relative;
     background-color: blueviolet;
-    background-image: url(./todoBg.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
