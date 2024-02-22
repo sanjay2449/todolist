@@ -93,6 +93,7 @@ hr {
     text-align: start;
     margin: 1.5rem;
     gap: 5;
+    overflow: auto;
 }
 
 .taskList {
